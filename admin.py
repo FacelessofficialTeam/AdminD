@@ -90,10 +90,10 @@ def check_admin_panel(url):
 
 # Main function to prompt the user for a website link
 def main():
-    target_url = input("Website er link din (e.g., http://example.com): ")
+    target_url = input("GIVE WEBSITE LINK (e.g., http://example.com): ")
     # Validate URL format if necessary
     if not target_url.startswith("http://") and not target_url.startswith("https://"):
-        print("Valid URL den, http:// ba https:// diye shuru hote hobe.")
+        print("Valid URL")
         return
     
     check_admin_panel(target_url)
