@@ -1,5 +1,6 @@
-# Admin Panel Checker
+![17c7e1f7-5f58-4305-a806-fd0dcf6f67fd](https://github.com/user-attachments/assets/4d3f71f1-7971-413d-b23f-c8a9a1730168)
 
+# Admin panel checker 
 A tool to check the existence of common admin panel paths on websites.
 
 ## Features
@@ -9,7 +10,6 @@ A tool to check the existence of common admin panel paths on websites.
 
 1. Clone the repository
 
-2. 
 ## Usage
 
 1. Open your terminal.
